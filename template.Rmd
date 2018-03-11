@@ -1,0 +1,20 @@
+---
+title: "Title goes here"
+output:
+  html_notebook:
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+bibliography: ref.bib
+---
+
+```{r libraries, message = FALSE, warning = FALSE, include = FALSE, paged.print = FALSE}
+library(tidyverse)
+```
+[@book18],  
+[@artic18],  
+[@websi18]  
+
+# References
+
